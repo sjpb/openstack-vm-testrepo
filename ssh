@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+TEST_IP=$(tail -n1 inventory/hosts | cut -d '=' -f 3)
+ssh $TEST_IP
