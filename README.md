@@ -1,7 +1,6 @@
 # ansible-terraform-vm
 
-A skeleton to allow easy experimentation with VMs using Ansible and Terraform to make
-exploratory work easier.
+A skeleton to allow easy experimentation with VMs using Ansible and Terraform.
 
 
 ## Usage
